@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lGrOQM93A0Wuk_bAgjb9HA" Reference="PLQWK3GHLkOd0mJXEIHLYw/6zZ93rZXQE-qVC7etkkYxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html" CVScreenId="95f67394-5423-453d-9cad-d9d46b184b6b" CvType="AnyWordGroup" DesignTimeRectangle="610, 523, 601, 37" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='6' tag='TD' /&gt;" Guid="e89ab9cd-842b-4826-b011-afb300a30908" ScopeSelectorArgument="&lt;html app='chrome.exe' title='A Light in the Attic | Books to Scrape - Sandbox' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="95f67394-5423-453d-9cad-d9d46b184b6b" CvTextArea="58, 533, 77, 18" CvTextArgument="Availability" CvType="Text" DesignTimeRectangle="53, 523, 557, 37" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='TH' aaname='Availability' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Availability' /&gt;" Guid="be3d7c3c-58c7-496c-8a76-9806c84500bf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dc7513cbf8a99d2547a54061d87099ce.jpg" xmlns="">0G8NnZkmozEe5NnVJ7vBTNA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

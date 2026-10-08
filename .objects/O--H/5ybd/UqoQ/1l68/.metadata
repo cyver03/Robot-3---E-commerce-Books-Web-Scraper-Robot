@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Books to Scrape",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "1l688VqvZEuDh-Xu7VZA6Q",
+  "Reference": "PLQWK3GHLkOd0mJXEIHLYw/1l688VqvZEuDh-Xu7VZA6Q",
+  "ParentRef": "PLQWK3GHLkOd0mJXEIHLYw/UqoQxlU85UmPuClChW0qRQ",
+  "Created": "2026-10-07T11:55:26.4442259Z",
+  "Updated": "2026-10-07T11:55:26.4442259Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

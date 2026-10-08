@@ -1,0 +1,31 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "excel.exe",
+        "IsExpression": false
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "Scraped Books\\BooksInventoryValue.xlsx",
+        "IsExpression": false
+      },
+      "Version": null
+    },
+    {
+      "ApplicationType": "Chrome",
+      "ExecutablePath": {
+        "Value": "chrome.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "https://books.toscrape.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    }
+  ]
+}

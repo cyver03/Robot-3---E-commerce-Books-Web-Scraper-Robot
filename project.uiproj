@@ -1,0 +1,6 @@
+{
+  "Name": "E-Commerce Books Web Scraper Robot",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

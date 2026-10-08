@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome All products  Books to Scrape - Sandbo",
+  "Type": "Screen",
+  "Id": "bBp4pcZaikqaBcOysMb5vQ",
+  "Reference": "PLQWK3GHLkOd0mJXEIHLYw/bBp4pcZaikqaBcOysMb5vQ",
+  "ParentRef": "PLQWK3GHLkOd0mJXEIHLYw/5ybdWt9ZUkG4PPrBz4jKQA",
+  "Created": "2026-09-26T07:14:35.4032983Z",
+  "Updated": "2026-09-26T07:14:35.4032983Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

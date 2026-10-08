@@ -1,0 +1,14 @@
+﻿{
+  "Name": "A Light in the ...",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "op-03nbJU0KzjPJYugTFJQ",
+  "Reference": "PLQWK3GHLkOd0mJXEIHLYw/op-03nbJU0KzjPJYugTFJQ",
+  "ParentRef": "PLQWK3GHLkOd0mJXEIHLYw/UqoQxlU85UmPuClChW0qRQ",
+  "Created": "2026-09-28T12:20:48.3292666Z",
+  "Updated": "2026-09-28T12:20:48.3292666Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

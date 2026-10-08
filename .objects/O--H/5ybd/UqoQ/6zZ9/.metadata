@@ -1,0 +1,14 @@
+﻿{
+  "Name": "In stock (22 available)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6zZ93rZXQE-qVC7etkkYxA",
+  "Reference": "PLQWK3GHLkOd0mJXEIHLYw/6zZ93rZXQE-qVC7etkkYxA",
+  "ParentRef": "PLQWK3GHLkOd0mJXEIHLYw/UqoQxlU85UmPuClChW0qRQ",
+  "Created": "2026-09-28T12:54:28.9682843Z",
+  "Updated": "2026-09-28T12:54:28.9682843Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
